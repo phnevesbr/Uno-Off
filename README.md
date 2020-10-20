@@ -1,3 +1,3 @@
 # Uno-Off
-Game Uno Offline</br>
+Uno Game Offline</br>
 Desenvolvido Em HTML e JavaScript
